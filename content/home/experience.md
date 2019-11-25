@@ -3,9 +3,9 @@
 widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 40  # Order that this section will appear.
+weight = 50  # Order that this section will appear.
 
-title = "Experience"
+title = "Work Experience"
 subtitle = ""
 
 # Date format for experience
@@ -17,28 +17,37 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
-  date_end = ""
+  title = "Quantitative Research - Machine Learning Summer Associate"
+  company = "JPMorgan Chase & Co."
+  company_url = "https://www.jpmorganchase.com/"
+  location = "New York City, NY"
+  date_start = "2019-05-29"
+  date_end = "2019-08-09"
   description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
+  Summer intern in the Spread Electronic Market Making Quantitative Research team working on a machine learning model for credit spread of investment grade corporate bonds.  
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  title = "Quantitative Research - Machine Learning Summer Associate"
+  company = "JPMorgan Chase & Co."
+  company_url = "https://www.jpmorganchase.com/"
+  location = "New York City, NY"
+  date_start = "2018-05-29"
+  date_end = "2018-08-09"
+  description = """
+  Summer intern in the Commodities Quantitative Research team working on a deep neural network approach to pricing bivariate lognormal spread options.  
+  """
 
+[[experience]]
+  title = "Givens Associate"
+  company = "Argonne National Laboratory"
+  company_url = "https://www.anl.gov/"
+  location = "Lemont, IL"
+  date_start = "2017-05-29"
+  date_end = "2017-08-11"
+  description = """
+  Summer intern in the [Mathematics & Computer Science division](https://www.anl.gov/mcs) working on wind speed forecasting with recurrent neural networks.
+  """
 +++
