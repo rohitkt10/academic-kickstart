@@ -15,7 +15,7 @@ role: Postdoctoral Researcher
 # Organizations/Affiliations
 organizations:
 - name: Cold Spring Harbor Laboratory
-  url: ""
+  url: "https://www.cshl.edu/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: I am currently a postdoctoral researcher in the [Koo Lab](http://koolab.cshl.edu/) at Cold Spring Harbor Laboratory, focussing on interpretable machine learning for genomics. Previously, I was a PhD candidate in the School of Mechanical Engineering at Purdue University, working on high-dimensional, multifidelity uncertainty quantification and physics-informed machine learning with [Prof. Ilias Bilionis](https://www.predictivesciencelab.org/). 
