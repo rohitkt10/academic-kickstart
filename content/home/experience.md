@@ -19,6 +19,17 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
+  title = "Postdoctoral Researcher"
+  company = "Cold Spring Harbor Laboratory"
+  company_url = "https://www.cshl.edu/"
+  location = "Cold Spring Harbor, NY"
+  date_start = "2020-06-29"
+  date_end = 
+  description = """
+  Deep learning for genomics.
+  """
+
+[[experience]]
   title = "Quantitative Research - Machine Learning Summer Associate"
   company = "JPMorgan Chase & Co."
   company_url = "https://www.jpmorganchase.com/"
