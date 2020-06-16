@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   company_url = "https://www.cshl.edu/"
   location = "Cold Spring Harbor, NY"
   date_start = "2020-06-29"
-  date_end = 
+  date_end = ""
   description = """
   Deep learning for genomics.
   """
