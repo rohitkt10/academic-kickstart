@@ -10,15 +10,15 @@ authors:
 superuser: true
 
 # Role/position
-role: Ph.D Candidate
+role: Postdoctoral Researcher 
 
 # Organizations/Affiliations
 organizations:
-- name: Purdue University
+- name: Cold Spring Harbor Laboratory
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a graduate student at the Predictive Science Lab at Purdue Mechanical Engineering where I work on uncertainty quantification and physics and theory informed machine learning for physical systems. 
+bio: I am currently a postdoctoral researcher in the [Koo Lab](http://koolab.cshl.edu/) at Cold Spring Harbor Laboratory, focussing on interpretable machine learning for genomics. Previously, I was a PhD candidate in the School of Mechanical Engineering at Purdue University, working on high-dimensional, multifidelity uncertainty quantification and physics-informed machine learning with [Prof. Ilias Bilionis](https://www.predictivesciencelab.org/). 
 
 interests:
 - Scientific Machine Learning 
@@ -30,7 +30,7 @@ education:
   courses:
   - course: PhD in Mechanical Engineering
     institution: Purdue University
-    year: 2020 (Expected)
+    year: 2020 
   - course: MS in Mechanical Engineering
     institution: Purdue University
     year: 2015
@@ -71,4 +71,4 @@ email: ""
 #- Visitors
 ---
 
-I am currently a Ph.D. candidate at the Predictive Science Lab at Purdue University. My academic and research interests include scientific machine learning, uncertainty quantification, dynamical systems, Bayesian inference and more. In my spare time, I like to read, go for a run, watch football and listen to metal. 
+I am currently a postdoctoral researcher in the [Koo Lab](http://koolab.cshl.edu/) at Cold Spring Harbor Laboratory, focussing on interpretable machine learning for genomics. Previously, I was a PhD candidate at the [Predictive Science Lab](https://www.predictivesciencelab.org/) at Purdue. My academic and research interests include scientific machine learning, uncertainty quantification, dynamical systems, Bayesian inference and more. In my spare time, I like to read, go for a run, watch football and listen to metal. 
